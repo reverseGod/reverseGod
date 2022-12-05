@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reverseGod
-- 👀 I’m interested in GameHacking and Economy
-- 🌱 I’m currently learning GameHacking
+- 👀 I’m interested in GameHacking and Economy.
+- 🌱 I’m currently learning C, C#, C++ and html.
 - 📫 How to reach me: reverse#0110
 
 <!---
